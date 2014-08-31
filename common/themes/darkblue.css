@@ -1,0 +1,316 @@
+/* uip-meta-fileid:20140703-404c-4e72-a74d-55e5e523cef9 */
+
+textarea {
+  background-color: transparent;
+  border-color: transparent;
+  font-family: '맑은 고딕';
+}
+
+.divTitle, .divNav, .divContent {
+  background-color: #eef4f9;
+}
+
+.jqx-widget-uip {
+  border-color: #004a73;
+}
+
+.jqx-widget-content-uip {
+  color: #004a73;
+  border-color: #004a73;
+}
+
+.jqx-fill-state-normal-uip,
+.jqx-widget-header-uip,
+.jqx-menu-vertical-uip {
+  color: #fff;
+  border-color: #004a73;
+  background-color: #449bca;
+  background-image: -webkit-gradient(linear,0 0,0 100%,from(#3c91c2),to(#449bca));
+  background-image: -moz-linear-gradient(top,#3c91c2,#449bca);
+  background-image: -o-linear-gradient(top,#3c91c2,#449bca);
+}
+
+.jqx-grid-cell-sort-uip,
+.jqx-grid-cell-filter-uip,
+.jqx-grid-cell-pinned-uip {
+  color: #000;
+  background-color: #deedf5;
+}
+
+.jqx-grid-cell-alt-uip,
+.jqx-grid-cell-sort-alt-uip,
+.jqx-grid-cell-filter-alt-uip {
+  color: #000;
+  background-color: #deedf5;
+}
+
+.jqx-checkbox-check-checked-uip {
+  background: transparent url(images/check_white.png) left top no-repeat;
+}
+
+.jqx-checkbox-check-indeterminate-uip {
+  background: transparent url(images/check_indeterminate_white.png) left top no-repeat;
+}
+
+.jqx-grid-uip,
+.jqx-grid-header-uip,
+.jqx-grid-cell-uip {
+  border-color: #60aad2;
+}
+
+.jqx-widget-uip .jqx-grid-cell-uip,
+.jqx-widget-uip .jqx-grid-group-cell-uip {
+  border-color: #60aad2;
+}
+
+.jqx-widget-uip .jqx-grid-column-menubutton-uip,
+.jqx-widget-uip .jqx-grid-column-sortascbutton-uip,
+.jqx-widget-uip .jqx-grid-column-sortdescbutton-uip,
+.jqx-widget-uip .jqx-grid-column-filterbutton-uip {
+  background-color: #449bca;
+  border-color: #449bca;
+}
+
+.jqx-widget-uip .jqx-grid-column-header-uip {
+  border-color: #449bca;
+}
+
+.jqx-grid-bottomright-uip,
+.jqx-panel-bottomright-uip,
+.jqx-listbox-bottomright-uip {
+  background-color: #449bca;
+}
+
+.jqx-widget-uip .jqx-grid-column-menubutton-uip,
+.jqx-menu-vertical-uip {
+  background-color: #0a73a7;
+  border-color: #0a73a7;
+}
+
+.jqx-grid-group-cell-uip {
+  border-color: #60aad2;
+  background-color: #fff;
+}
+
+.jqx-fill-state-hover-uip {
+  background: #2f7097;
+  background-image: none;
+  border-color: #004a73;
+  color: #fff;
+}
+
+.jqx-fill-state-pressed-uip,
+.jqx-menu-item-top-hover-uip {
+  background: #004a73;
+  background-image: none;
+  border-color: #004a73;
+  color: #fff;
+}
+
+.jqx-grid-selectionarea-uip {
+  background-color: #60aad2;
+  border: 1px solid #60aad2;
+  opacity: 0.5;
+}
+
+.jqx-scrollbar-state-normal-uip {
+  background-color: #449bca;
+  border: 1px solid #449bca;
+}
+
+.jqx-tabs-title-selected-bottom-uip,
+.jqx-tabs-selection-tracker-bottom-uip,
+.jqx-tabs-title-selected-top-uip,
+.jqx-tabs-selection-tracker-top-uip {
+  color: #ffffff;
+  border-color: #004a73;
+  border-bottom: 1px solid #004a73;
+  background: #004a73;
+}
+
+.jqx-grid-column-sortascbutton-uip,
+.jqx-expander-arrow-bottom-uip,
+.jqx-window-collapse-button-uip,
+.jqx-menu-item-arrow-up-uip,
+.jqx-menu-item-arrow-up-selected-uip,
+.jqx-menu-item-arrow-top-up-uip,
+.jqx-icon-arrow-up-uip,
+.jqx-icon-arrow-up-hover-uip,
+.jqx-icon-arrow-up-selected-uip {
+  background-image: url('images/icon-up-white.png');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.jqx-grid-column-menubutton-uip,
+.jqx-grid-column-sortdescbutton-uip,
+.jqx-expander-arrow-top-uip,
+.jqx-window-collapse-button-collapsed-uip,
+.jqx-menu-item-arrow-down-uip,
+.jqx-menu-item-arrow-down-selected-uip,
+.jqx-menu-item-arrow-down-uip,
+.jqx-icon-arrow-down-uip,
+.jqx-icon-arrow-down-hover-uip,
+.jqx-icon-arrow-down-selected-uip {
+  background-image: url('images/icon-down-white.png');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.jqx-icon-arrow-left-uip {
+  background-image: url('images/icon-left-white.png');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.jqx-icon-arrow-right-uip {
+  background-image: url('images/icon-right-white.png');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.jqx-menu-item-arrow-left-uip {
+  background-image: url('images/icon-left.png');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.jqx-menu-item-arrow-right-uip {
+  background-image: url('images/icon-right.png');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.jqx-tabs-arrow-left-uip,
+.jqx-menu-item-arrow-left-selected-uip,
+.jqx-menu-item-arrow-top-left-uip,
+.jqx-icon-arrow-down-left-uip,
+.jqx-icon-arrow-left-selected-uip {
+  background-image: url('images/icon-left-white.png');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.jqx-tabs-arrow-right-uip,
+.jqx-menu-item-arrow-right-selected-uip,
+.jqx-menu-item-arrow-top-right-uip,
+.jqx-icon-arrow-right-hover-uip,
+.jqx-icon-arrow-right-selected-uip {
+  background-image: url('images/icon-right-white.png');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.jqx-window-close-button-uip,
+.jqx-icon-close-uip,
+.jqx-tabs-close-button-uip,
+.jqx-tabs-close-button-hover-uip,
+.jqx-tabs-close-button-selected-uip {
+  background-image: url(images/close_white.png);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.jqx-icon-arrow-first-uip {
+  background-image: url('images/icon-first-white.png');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.jqx-icon-arrow-last-uip {
+  background-image: url('images/icon-last-white.png');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.jqx-icon-search-uip {
+  background-image: url(images/search_white.png);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.jqx-icon-calendar-uip,
+.jqx-icon-calendar-hover-uip,
+.jqx-icon-calendar-pressed-uip {
+  background-image: url('images/icon-calendar-white.png');
+}
+
+.jqx-icon-delete-uip {
+  background-image: url('images/icon-delete-white.png');
+}
+
+.jqx-icon-edit-uip {
+  background-image: url('images/icon-edit-white.png');
+}
+
+.jqx-icon-save-uip {
+  background-image: url('images/icon-save-white.png');
+}
+
+.jqx-icon-cancel-uip {
+  background-image: url('images/icon-cancel-white.png');
+}
+
+.jqx-icon-search-uip {
+  background-image: url(images/search_white.png);
+}
+
+.jqx-icon-plus-uip {
+  background-image: url(images/plus_white.png);
+}
+
+.jqx-grid-group-expand-uip,
+.jqx-grid-cell-uip>.jqx-grid-group-expand-uip {
+  background-image: url('images/icon-down.png');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.jqx-grid-group-collapse-uip,
+.jqx-grid-cell-uip>.jqx-grid-group-collapse-uip {
+  background-image: url('images/icon-right.png');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.jqx-grid-group-collapse-rtl-uip,
+.jqx-grid-cell-uip>.jqx-grid-group-collapse-rtl-uip {
+  background-image: url('images/icon-left.png');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.jqx-grid-group-expand-rtl-uip,
+.jqx-grid-cell-uip>.jqx-grid-group-expand-rtl-uip {
+  background-image: url('images/icon-down.png');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.jqx-grid-cell-uip.jqx-grid-cell-selected-uip>.jqx-grid-group-expand-uip,
+.jqx-grid-cell-uip.jqx-grid-cell-hover-uip>.jqx-grid-group-expand-uip {
+  background-image: url('images/icon-down-white.png');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.jqx-grid-cell-uip.jqx-grid-cell-selected-uip>.jqx-grid-group-collapse-uip,
+.jqx-grid-cell-uip.jqx-grid-cell-hover-uip>.jqx-grid-group-collapse-uip {
+  background-image: url('images/icon-right-white.png');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.jqx-grid-cell-uip.jqx-grid-cell-selected-uip>.jqx-grid-group-collapse-rtl-uip,
+.jqx-grid-cell-uip.jqx-grid-cell-hover-uip>.jqx-grid-group-collapse-rtl-uip {
+  background-image: url('images/icon-left-white.png');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.jqx-grid-cell-uip.jqx-grid-cell-selected-uip>.jqx-grid-group-expand-rtl-uip,
+.jqx-grid-cell-uip.jqx-grid-cell-hover-uip>.jqx-grid-group-expand-rtl-uip {
+  background-image: url('images/icon-down-white.png');
+  background-repeat: no-repeat;
+  background-position: center;
+}

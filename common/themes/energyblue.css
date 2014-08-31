@@ -1,0 +1,26 @@
+body {
+  font-family: '맑은 고딕';
+}
+
+textarea {
+  background-color: transparent;
+  border-color: transparent;
+  font-family: '맑은 고딕';
+}
+
+.divTitle, .divNav, .divContent {
+  background-color: #f4f7fc;
+}
+
+.jqx-widget-content-uip{border-color: #a4bed4;}
+.jqx-fill-state-normal-uip, .jqx-widget-header-uip{border-color:#a4bed4; background-color:#e0e9f5}
+.jqx-fill-state-hover-uip{border-color:#a4bed4;  background-color:#cfdde9}
+.jqx-fill-state-pressed-uip{border-color:#5e8cb3; background-color:#cfdde9}
+.jqx-fill-state-focus-uip { border-color: #477396; }
+.jqx-scrollbar-state-normal-uip, .jqx-grid-bottomright-uip, .jqx-panel-bottomright-uip, .jqx-listbox-bottomright-uip{background-color:#e0e9f5}
+.jqx-widget-uip .jqx-grid-column-header-uip, .jqx-grid-cell-uip, .jqx-widget-uip .jqx-grid-cell-uip, .jqx-widget-uip .jqx-grid-group-cell-uip, .jqx-grid-group-cell-uip{border-color:#a4bed4}
+.jqx-tabs-title-selected-bottom-uip, .jqx-tabs-selection-tracker-bottom-uip, .jqx-tabs-title-selected-top-uip, .jqx-tabs-selection-tracker-top-uip{border-color:#a4bed4; border-bottom:1px solid #fff; background:#fff}
+.jqx-grid-cell-sort-alt-uip, .jqx-grid-cell-filter-alt-uip, .jqx-grid-cell-pinned-uip, .jqx-grid-cell-alt-uip, .jqx-grid-cell-sort-uip{ background-color:#e7eef8}
+.jqx-grid-cell-selected-uip{ background-color:#cfdde9 !important;  color:#2b465e !important;}
+.jqx-grid-cell-hover-uip{ background-color:#cfdde9 !important;}
+.jqx-menu-vertical-uip{background: #e0e9f5;}
