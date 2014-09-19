@@ -1,16 +1,16 @@
 define([], function () {
     'use strict';
 
-    var path = 'icons/';
+    var path = './';
 
     var parts = [{
         'type': 'component',
-        'name': 'html.custombutton',
-        'displayName': 'Custom Button',
+        'name': 'sds.mybutton',
+        'displayName': 'My Button',
         'icons': {
             '16': '',
-            '36': 'button_36.png',
-            '68': 'button_68.png'
+            '36': 'my_button_36.png',
+            '68': 'my_button_68.png'
         },
         'categories': ['Buttons', 'Custom'],
         'description': 'The custom button element represents a button labeled by its contents.',
