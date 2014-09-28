@@ -5,7 +5,7 @@ define([], function () {
 
     var parts = [{
         'type': 'component',
-        'name': 'sds.mybutton',
+        'name': 'html.mybutton',
         'displayName': 'My Button',
         'icons': {
             '16': '',
