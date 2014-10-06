@@ -1,0 +1,41 @@
+/* uip-meta-fileid:20141001-c96a-4d82-98b2-22107eb1c0ff */
+
+.jqx-widget-header-uip,
+.jqx-grid-uip .jqx-widget-header-uip {
+  background-color: #efefef;
+  background-image: -webkit-linear-gradient(top,#efefef, #444677);
+}
+
+.jqx-widget-header-uip,
+.jqx-grid-uip .jqx-widget-header-uip {
+  background-color: #a5a5ca;
+  background-image: -webkit-linear-gradient(top,#a5a5ca, #444677);
+}
+
+.jqx-widget-header-uip,
+.jqx-grid-uip .jqx-widget-header-uip {
+  background-color: #9c9cc0;
+  background-image: -webkit-linear-gradient(top,#9c9cc0, #444677);
+}
+
+.jqx-widget-header-uip,
+.jqx-grid-uip .jqx-widget-header-uip {
+  background-color: #bebee4;
+  background-image: -webkit-linear-gradient(top,#bebee4, #444677);
+}
+
+.jqx-widget-header-uip, .jqx-grid-uip .jqx-widget-header-uip {
+  color: #f3eded;
+}
+
+.jqx-fill-state-pressed-uip, .jqx-widget-uip .jqx-grid-cell-selected-uip {
+  color: #252121;
+}
+
+.jqx-fill-state-pressed-uip, .jqx-widget-uip .jqx-grid-cell-selected-uip {
+  color: #140c0c;
+}
+
+.jqx-fill-state-pressed-uip, .jqx-widget-uip .jqx-grid-cell-selected-uip {
+  color: #110101;
+}
